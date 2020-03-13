@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/nvandal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nvandal.com
+  * I am nvandal (https://keybase.io/nvandal) on keybase.
+  * I have a public key with fingerprint D606 76C2 3FF2 F252 1C9D  9520 30C6 BCB9 8630 B294
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011fac3866c3782f0d8d33e0b81ad187f8896f8034810bd63249b783f032ed23140a",
+      "fingerprint": "d60676c23ff2f2521c9d952030c6bcb98630b294",
+      "host": "keybase.io",
+      "key_id": "30c6bcb98630b294",
+      "kid": "01011fac3866c3782f0d8d33e0b81ad187f8896f8034810bd63249b783f032ed23140a",
+      "uid": "5c5be73effe346e82541af77a172e219",
+      "username": "nvandal"
+    },
+    "service": {
+      "hostname": "nvandal.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584123969,
+  "expire_in": 157680000,
+  "prev": "9ad9b08585963c89a5d5f8032cfe7021857d28c5fa84e078413ec22a15ea05fb",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1IFEEYx89Ke0MysMLezEWD4jjm5WZ31hANKpWK8HpDio7Z3Vnd7ty97rbL
+Xs7AypDMIrIPmRUV9MESjIyMIMpKKIiiKJAsKkgk6cUipCialfoQ9LH5Mswz//9v
+/s/DHM4c65uQBu5e724Al46m3R/UfJsiD0M7Jc0xtkuFO6UIH9141OAJNxyxDKlQ
+AhBAaDIdU1nWsUKRCQxqYMyBRiEzIFVMSlXZpAAHKQSaIWMUVDWFYhNgxA2EYRAw
+yS+Zll3F47G4ZbsCa8hAVmQdYdNEJiII6qqhEgQw0GVN11QqY6AhNSiM1U7Cc4hw
+GkvwgOWImjiER+P9Q/+fc28dxRGdaFzB3DQ5DsqcIhKEzFQUBhXEEVQ9YYLHbVbD
+hdpOMttgUSnll0Qxaencm6vXyN+CgO7UCGcs7riO7kTFRbXrxhKFntHdHvOU27gW
+/s0Ia5ZtiCkKR5LHE5ZjS4VQKHXX8qCQ0CBEWJVVv8RrY1achy1PQRSZArG8d3hS
+IFVmqBqghK4nqox1qjJiEG8QSDe5AhCkRDEQ1YnJaJADRWAx1xFikHAGiKlJXltb
+bEfAoQjKqgQ0YVXZzN0a51JqUmMaHudLm+CbMz1v3NOM5K3i4eHQ7LaWeX++XvoY
+79/5Jk3M+lO5vGv8j9xYenn0W3v294Ioft7XH2ovWXJ+zdDMlQt61/bURJqntAV2
+PHhddmDj+d6TL0tXvBmoH9qcSj0rWT98M6ev6nZ3Zmeo60kPnr/4Ra3R03HOXdc7
+ZSAjPX/y6YXHG5cUXZ319c7SPVe7ssCN3ArySKETO5Ytf3/tntRffSjgsrup/oKz
+n/aCnMr9uzqPPO77cmZpRkXkxPgrq9oKNjdXrv14cOR9Tf7nopJ7nRsW+VfnDn74
+caru3aWcirnFLbWBUl/2ttK3vmutIyMLc8nPjoZpF6bubS25WfaNtmcfO6F10yf+
+PcVly+vymy6XN2RVlo/Na3oVySO36kO79xUdbr3YtbplxtAv
+=azHV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nvandal
+
+==================================================================
+
